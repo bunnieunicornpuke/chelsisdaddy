@@ -1,0 +1,6 @@
+<picture>
+  <source media="(min-width: 650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width: 465px)" srcset="http://i2.cdn.cnn.com/cnnnext/dam/assets/120504054119-empty-classroom-high-school-horizontal-large-gallery.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
+
